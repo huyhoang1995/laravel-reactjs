@@ -1,0 +1,72 @@
+.cls-container {
+    background-color: #26ae8f !important;
+    color: black;
+}
+
+.cls-container a {
+    /*color: #26ae8f;*/
+}
+
+.btn-block {
+    background-color: #26ae8f !important;
+}
+
+.cls-brand a .brand-title {
+    opacity: 1 !important;
+}
+
+.cls-brand a .brand-icon {
+    opacity: 1 !important;
+}
+
+.cls-guide{
+    position: absolute;
+    top: 0;
+    right: 20px;
+    height: 100px;
+    line-height: 100px;
+    font-size: 15px;
+}
+
+#container.cls-container .cls-brand .brand-icon, #container.cls-container .cls-brand .brand-title {
+    font-size: 25px;
+}
+
+/*footer*/
+footer#footerLogin {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    background-color: #229c80;
+}
+
+footer#footerLogin > .row {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer#footerLogin .contact-info h3, footer#footerLogin .contact-info p {
+    color: white;
+}
+
+footer#footerLogin .contact-info h3 {
+    font-weight: lighter;
+    text-transform: uppercase; 
+}
+
+footer#footerLogin .contact-info p {
+    margin-bottom: 2px;
+}
+
+footer#footerLogin .contact-info p a{
+    color: #FCD820;
+    font-weight: bold;
+}
+
+.textGuide {
+    padding-left: 0; 
+    padding-right: 0; 
+    font-size: 12px;
+    margin-top: 30px
+}
